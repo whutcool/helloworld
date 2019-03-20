@@ -7,7 +7,7 @@ public class ClassLoaderTest {
 	public static void main(String[] args) {
 		staticFunction();
 	}
-	static ClassLoaderTest sTest = new ClassLoaderTest();
+	static ClassLoaderTest clt = new ClassLoaderTest();
 	static {
 		System.out.println("1");
 	}
