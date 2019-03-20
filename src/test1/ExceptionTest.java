@@ -1,5 +1,3 @@
-package test1;
-
 public class ExceptionTest {
 	public static int a = 1;
 	public static void main(String[] args) throws Exception {

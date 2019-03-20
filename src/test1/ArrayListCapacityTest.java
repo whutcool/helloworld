@@ -1,5 +1,3 @@
-package test1;
-
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 

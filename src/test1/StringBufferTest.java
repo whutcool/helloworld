@@ -1,5 +1,3 @@
-package test1;
-
 public class StringBufferTest {
 	public static void main(String[] args) {
 		StringBuilder stringBuffer = new StringBuilder();

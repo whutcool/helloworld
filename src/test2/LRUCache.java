@@ -1,4 +1,3 @@
-package test2;
 /**
  * 基于HashMap和双链表实现LRU
  */

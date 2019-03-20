@@ -1,5 +1,3 @@
-package test2;
-
 public class StringUtils {
 	public static void main(String[] args) {
 		StringBuffer buffer = new StringBuffer();

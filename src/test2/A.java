@@ -1,5 +1,3 @@
-package test2;
-
 public class A {
 
 	private String aString = "a";

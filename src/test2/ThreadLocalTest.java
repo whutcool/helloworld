@@ -1,5 +1,3 @@
-package test2;
-
 public class ThreadLocalTest {
     public static void main(String[] args) throws InterruptedException {
         final ThreadLocalTest test = new ThreadLocalTest();
