@@ -11,7 +11,7 @@ public class A {
 	}
 	
 	public static void main(String[] args) {
-		Aobj a = null;
+		A a = null;
 		if (a == null) {
 			System.out.println("success");
 		}
