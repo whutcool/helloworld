@@ -15,8 +15,8 @@ public class TestDate {
 		Date date = new Date();
 		SimpleDateFormat format = new SimpleDateFormat("yyyyMMdd");
 		System.out.println(format.format(date));
-		System.out.println(TestDate.class.getResource("/static"));
-		String path = TestDate.class.getResource("/static").getPath();
+		System.out.println(TestDate.class.getResource("/"));
+		String path = TestDate.class.getResource("/").getPath();
 		File f = new File(path);
 		if (!f.exists()) {
 			System.out.println("error");
